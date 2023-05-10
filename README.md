@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dennismasinde
-- 👀 I’m interested in java (Spring and Android), DevOps (CaC,IaC,CI/CD,Containerization,Container Orcherstration, microservices and microdatabases)
+- 👀 I’m interested in java (Spring and Android), DevOps (IaC,CI/CD,Containerization,Container Orcherstration, microservices and microdatabases)
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Spring, Android and DevOps projects
 - 📫 How to reach me chengwadennismasinde@gmail.com or +254706374812
