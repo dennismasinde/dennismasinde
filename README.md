@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dennismasinde Software Engineer
+- 👋 Hi, I’m @dennismasinde a Backend Software Engineer
 - 👀 I’m interested in java (Spring), SQL and DevOps (IaC,CI/CD,Containerization,Container Orcherstration and microservices)
 - 🌱 I’m an aspiring Data Engineer
 - 💞️ I’m looking to collaborate on Spring and DevOps projects
